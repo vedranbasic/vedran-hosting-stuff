@@ -1,14 +1,14 @@
-Šifra modela,Veličina,Šifra boje,MPC,Ime branda,Šifra branda,Vodič za veličinu,Spol,Oblik,Tip,Boja prednjeg dijela,Materijal prednjeg dijela,Širina leće,Visina leće,Materijal ručkice,Dužina ručkice,Fleksibilni,Veličina mosta,Slika,Ime,“Slika”
-0VO2606S,55,307113,119,VOGUE,VO,XS,Žene,Mačkasti,Puni okvir,Smeđa,Metal,52,36,Metal,135,,16,0VO2606S__307113,Dioptrijski okvir VOGUE,0VO2606S__307113
-0VO2606S-1,55,307113,119,VOGUE,VO,XS,Žene,Mačkasti,Puni okvir,Smeđa,Metal,52,36,Metal,135,,16,0VO2606S__307113,Dioptrijski okvir VOGUE,0VO2606S__307113
-0VO2943SB,55,294214,110,VOGUE,VO,"S,M,L",Žene,Ovalni,Puni okvir,"Crna,Smeđa,Fronta Crna/Mat,Srebrna,Crvena Gradijent,Blijeda,Zlatna,LjubičaIsta Gradijent",Metal,52,42,Injektirani,140,,18,0VO2943SB__294214,Dioptrijski okvir VOGUE,0VO2943SB__294214
-0VO2943SB-1,55,294214,110,VOGUE,VO,S,Žene,Ovalni,Puni okvir,Crna,Metal,52,42,Injektirani,140,,18,0VO2943SB__294214,Dioptrijski okvir VOGUE,0VO2943SB__294214
-0VO2943SB-2,55,299013,110,VOGUE,VO,S,Žene,Ovalni,Puni okvir,Smeđa,Metal,52,42,Injektirani,140,,18,0VO2943SB__299013,Dioptrijski okvir VOGUE,0VO2943SB__299013
-0VO2943SB-3,55,31324L,92,VOGUE,VO,M,Žene,Nepravilan,Puni okvir,Fronta Crna/Mat,Metal,52,44,Metal,135,,18,0VO2943SB__31324L,Dioptrijski okvir VOGUE,0VO2943SB__31324L
-0VO2943SB-4,55,31324L,92,VOGUE,VO,M,Žene,Nepravilan,Puni okvir,Srebrna,Metal,52,44,Metal,135,,18,0VO2943SB__31324L,Dioptrijski okvir VOGUE,0VO2943SB__31324L
-0VO2943SB-5,55,W44/11,92,VOGUE,VO,M,Žene,Nepravilan,Puni okvir,Crvena Gradijent,Metal,52,44,Metal,135,,18,0VO2943SB__W44/11,Dioptrijski okvir VOGUE,0VO2943SB__W44/11
-0VO2943SB-6,55,W44/11,92,VOGUE,VO,M,Žene,Nepravilan,Puni okvir,Blijeda,Metal,52,44,Metal,135,,18,0VO2943SB__W44/11,Dioptrijski okvir VOGUE,0VO2943SB__W44/11
-0VO2943SB-7,55,W44/11,92,VOGUE,VO,M,Žene,Nepravilan,Puni okvir,Zlatna,Metal,52,44,Metal,135,,18,0VO2943SB__W44/11,Dioptrijski okvir VOGUE,0VO2943SB__W44/11
-0VO2943SB-8,55,W65613,92,VOGUE,VO,L,Žene,Nepravilan,Puni okvir,LjubičaIsta Gradijent,Metal,52,44,Metal,135,,18,0VO2943SB__W65613,Dioptrijski okvir VOGUE,0VO2943SB__W65613
-0VO2943SB-9,55,W65613,92,VOGUE,VO,L,Žene,Nepravilan,Puni okvir,Blijeda,Metal,52,44,Metal,135,,18,0VO2943SB__W65613,Dioptrijski okvir VOGUE,0VO2943SB__W65613
-0VO2943SB-10,55,W65613,92,VOGUE,VO,L,Žene,Nepravilan,Puni okvir,Zlatna,Metal,52,44,Metal,135,,18,0VO2943SB__W65613,Dioptrijski okvir VOGUE,0VO2943SB__W65613
+"Šifra modela","Veličina","Šifra boje","MPC","Ime branda","Šifra branda","Vodič za veličinu","Spol","Oblik","Tip","Boja prednjeg dijela","Materijal prednjeg dijela","Širina leće","Visina leće","Materijal ručkice","Dužina ručkice","Fleksibilni","Veličina mosta","Slika","Ime","Slika"
+"0VO2606S","55","307113","119","VOGUE","VO","XS","Žene","Mačkasti","Puni okvir","Smeđa","Metal","52","36","Metal","135","","16","0VO2606S__307113","Dioptrijski okvir VOGUE","0VO2606S__307113"
+"0VO2606S-1","55","307113","119","VOGUE","VO","XS","Žene","Mačkasti","Puni okvir","Smeđa","Metal","52","36","Metal","135","","16","0VO2606S__307113","Dioptrijski okvir VOGUE","0VO2606S__307113"
+"0VO2943SB","55","294214","110","VOGUE","VO","S,M,L","Žene","Ovalni","Puni okvir","Crna,Smeđa,Fronta Crna/Mat,Srebrna,Crvena Gradijent,Blijeda,Zlatna,LjubičaIsta Gradijent","Metal","52","42","Injektirani","140","","18","0VO2943SB__294214","Dioptrijski okvir VOGUE","0VO2943SB__294214"
+"0VO2943SB-1","55","294214","110","VOGUE","VO","S","Žene","Ovalni","Puni okvir","Crna","Metal","52","42","Injektirani","140","","18","0VO2943SB__294214","Dioptrijski okvir VOGUE","0VO2943SB__294214"
+"0VO2943SB-2","55","299013","110","VOGUE","VO","S","Žene","Ovalni","Puni okvir","Smeđa","Metal","52","42","Injektirani","140","","18","0VO2943SB__299013","Dioptrijski okvir VOGUE","0VO2943SB__299013"
+"0VO2943SB-3","55","31324L","92","VOGUE","VO","M","Žene","Nepravilan","Puni okvir","Fronta Crna/Mat","Metal","52","44","Metal","135","","18","0VO2943SB__31324L","Dioptrijski okvir VOGUE","0VO2943SB__31324L"
+"0VO2943SB-4","55","31324L","92","VOGUE","VO","M","Žene","Nepravilan","Puni okvir","Srebrna","Metal","52","44","Metal","135","","18","0VO2943SB__31324L","Dioptrijski okvir VOGUE","0VO2943SB__31324L"
+"0VO2943SB-5","55","W44/11","92","VOGUE","VO","M","Žene","Nepravilan","Puni okvir","Crvena Gradijent","Metal","52","44","Metal","135","","18","0VO2943SB__W44/11","Dioptrijski okvir VOGUE","0VO2943SB__W44/11"
+"0VO2943SB-6","55","W44/11","92","VOGUE","VO","M","Žene","Nepravilan","Puni okvir","Blijeda","Metal","52","44","Metal","135","","18","0VO2943SB__W44/11","Dioptrijski okvir VOGUE","0VO2943SB__W44/11"
+"0VO2943SB-7","55","W44/11","92","VOGUE","VO","M","Žene","Nepravilan","Puni okvir","Zlatna","Metal","52","44","Metal","135","","18","0VO2943SB__W44/11","Dioptrijski okvir VOGUE","0VO2943SB__W44/11"
+"0VO2943SB-8","55","W65613","92","VOGUE","VO","L","Žene","Nepravilan","Puni okvir","LjubičaIsta Gradijent","Metal","52","44","Metal","135","","18","0VO2943SB__W65613","Dioptrijski okvir VOGUE","0VO2943SB__W65613"
+"0VO2943SB-9","55","W65613","92","VOGUE","VO","L","Žene","Nepravilan","Puni okvir","Blijeda","Metal","52","44","Metal","135","","18","0VO2943SB__W65613","Dioptrijski okvir VOGUE","0VO2943SB__W65613"
+"0VO2943SB-10","55","W65613","92","VOGUE","VO","L","Žene","Nepravilan","Puni okvir","Zlatna","Metal","52","44","Metal","135","","18","0VO2943SB__W65613","Dioptrijski okvir VOGUE","0VO2943SB__W65613"
