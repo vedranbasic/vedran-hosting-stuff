@@ -1,0 +1,137 @@
+Sku;Slug;ColorCode;Image;AttributeSet;Category;ColorUnTransformed;TransformedColor;Vodič za veličinu;Šifra modela;Veličina;Šifra boje;MPC;Ime branda;Šifra branda;Spol;Oblik;Tip;Materijal prednjeg dijela;Širina leće;Visina leće;Materijal ručkice;Dužina ručkice;Fleksibilni;Boja prednjeg dijela;Veličina mosta;Naziv proizvoda;širina fronte
+VO5662;vo5662;;VO5662-2726;Default;Eyewear;Prozirna siva;;M;VO5662;54;2726;92;VOGUE;VO;Žene;Phantos;Puni okvir;Injektirani;54;50;Metal;140;;Prozirna siva;17;VOGUE;140
+VO5662-M-Prozirna-siva-2726;vo5662-m-2726;2726;VO5662-2726;Default;Eyewear;Prozirna siva;prozirna;M;VO5662;54;2726;92;VOGUE;VO;Žene;Phantos;Puni okvir;Injektirani;54;50;Metal;140;;Prozirna siva;17;VOGUE;140
+VO5399D;vo5399d;;VO5399D-W745;Default;Eyewear;Prozirna;;S;VO5399D;53;W745;80;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Acetat;53;45;Acetat;145;;Prozirna;17;VOGUE;135
+VO5399D-S-Prozirna-W745;vo5399d-s-w745;W745;VO5399D-W745;Default;Eyewear;Prozirna;prozirna;S;VO5399D;53;W745;80;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Acetat;53;45;Acetat;145;;Prozirna;17;VOGUE;135
+VO5378;vo5378;;VO5378-3150,VO5378-2386;Default;Eyewear;Ljubičasta  kornjačevina;;S;VO5378;53;3150;101;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Injektirani;53;42;Metal;140;;Ljubičasta  kornjačevina;17;VOGUE;135
+VO5378-S-Ljubicasta-kornjacevina-3150;vo5378-s-3150;3150;VO5378-3150;Default;Eyewear;Ljubičasta  kornjačevina;ljubičasta;S;VO5378;53;3150;101;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Injektirani;53;42;Metal;140;;Ljubičasta  kornjačevina;17;VOGUE;135
+VO5378-S-Smeda-2386;vo5378-s-2386;2386;VO5378-2386;Default;Eyewear;Smeđa;smeđa;S;VO5378;51;2386;101;VOGUE;VO;Žene;Zaobljeni četvrtasti;Puni okvir;Injektirani;51;42;Metal;140;;Smeđa;17;VOGUE;132
+VO5563;vo5563;;VO5563-W745,VO5563-2939,VO5563-W44;Default;Eyewear;Prozirna;;M;VO5563;53;W745;92;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Najlonska vlakna;53;43;Metal;140;;Prozirna;17;VOGUE;138
+VO5563-M-Prozirna-W745;vo5563-m-w745;W745;VO5563-W745;Default;Eyewear;Prozirna;prozirna;M;VO5563;53;W745;92;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Najlonska vlakna;53;43;Metal;140;;Prozirna;17;VOGUE;138
+VO5563-S-Ruzicasta-2939;vo5563-s-2939;2939;VO5563-2939;Default;Eyewear;Ružičasta;roza;S;VO5563;51;2939;92;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Najlonska vlakna;51;42;Metal;140;;Ružičasta;17;VOGUE;135
+VO5563-M-Crna-W44;vo5563-m-w44;W44;VO5563-W44;Default;Eyewear;Crna;crna;M;VO5563;53;W44;92;VOGUE;VO;Žene;Leptirasti;Puni okvir;Najlonska vlakna;53;43;Metal;140;;Crna;17;VOGUE;137
+VO5379D;vo5379d;;VO5379D-2798;Default;Eyewear;Ružičasta;;S;VO5379D;54;2798;80;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Acetat;54;45;Injektirani;140;;Ružičasta;17;VOGUE;135
+VO5379D-S-Ruzicasta-2798;vo5379d-s-2798;2798;VO5379D-2798;Default;Eyewear;Ružičasta;roza;S;VO5379D;54;2798;80;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Acetat;54;45;Injektirani;140;;Ružičasta;17;VOGUE;135
+VO5519;vo5519;;VO5519-2942,VO5519-W44,VO5519-2386;Default;Eyewear;Prozirna, CRNA;;M;VO5519;54;2942,W44;84;VOGUE;VO;Žene;Mačkasti;Puni okvir;Najlonska vlakna;54;42;Najlonska vlakna;140;;Prozirna, CRNA;17;VOGUE;140
+VO5519-M-Prozirna-2942;vo5519-m-2942;2942;VO5519-2942;Default;Eyewear;Prozirna;prozirna;M;VO5519;54;2942,W44;84;VOGUE;VO;Žene;Mačkasti;Puni okvir;Najlonska vlakna;54;42;Najlonska vlakna;140;;Prozirna, CRNA;17;VOGUE;140
+VO5519-M-CRNA-W44;vo5519-m-w44;W44;VO5519-W44;Default;Eyewear;CRNA;crna;M;VO5519;54;2942,W44;84;VOGUE;VO;Žene;Mačkasti;Puni okvir;Najlonska vlakna;54;42;Najlonska vlakna;140;;Prozirna, CRNA;17;VOGUE;140
+VO5519-M-Smeda-2386;vo5519-m-2386;2386;VO5519-2386;Default;Eyewear;Smeđa;smeđa;M;VO5519;54;2386;84;VOGUE;VO;Žene;Mačkasti;Puni okvir;Najlonska vlakna;54;42;Najlonska vlakna;140;;Smeđa;17;VOGUE;140
+VO5562;vo5562;;VO5562-2939;Default;Eyewear;Ružičasta;;S;VO5562;52;2939;92;VOGUE;VO;Žene;Phantos;Puni okvir;Injektirani;52;48;Metal;140;;Ružičasta;17;VOGUE;135
+VO5562-S-Ruzicasta-2939;vo5562-s-2939;2939;VO5562-2939;Default;Eyewear;Ružičasta;roza;S;VO5562;52;2939;92;VOGUE;VO;Žene;Phantos;Puni okvir;Injektirani;52;48;Metal;140;;Ružičasta;17;VOGUE;135
+VO5487B;vo5487b;;VO5487B-2942;Default;Eyewear;Ružičasta;;M;VO5487B;54;2942;119;VOGUE;VO;Žene;Leptirasti;Puni okvir;Injektirani;54;45;Metal;140;;Ružičasta;17;VOGUE;140
+VO5487B-M-Ruzicasta-2942;vo5487b-m-2942;2942;VO5487B-2942;Default;Eyewear;Ružičasta;roza;M;VO5487B;54;2942;119;VOGUE;VO;Žene;Leptirasti;Puni okvir;Injektirani;54;45;Metal;140;;Ružičasta;17;VOGUE;140
+VO5477B;vo5477b;;VO5477B-2942,VO5477B-2940;Default;Eyewear;Ružičasta;;S;VO5477B;50;2942;110;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Injektirani;50;45;Metal;140;;Ružičasta;18;VOGUE;135
+VO5477B-S-Ruzicasta-2942;vo5477b-s-2942;2942;VO5477B-2942;Default;Eyewear;Ružičasta;roza;S;VO5477B;50;2942;110;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Injektirani;50;45;Metal;140;;Ružičasta;18;VOGUE;135
+VO5477B-M-Transparentno-smeda-2940;vo5477b-m-2940;2940;VO5477B-2940;Default;Eyewear;Transparentno smeđa;smeđa;M;VO5477B;52;2940;110;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Injektirani;52;48;Metal;140;;Transparentno smeđa;18;VOGUE;140
+VO5276;vo5276;;VO5276-2942;Default;Eyewear;Ružičasta;;S;VO5276;51;2942;101;VOGUE;VO;Žene;Mačkasti;Puni okvir;Injektirani;51;43;Metal;140;;Ružičasta;17;VOGUE;133
+VO5276-S-Ruzicasta-2942;vo5276-s-2942;2942;VO5276-2942;Default;Eyewear;Ružičasta;roza;S;VO5276;51;2942;101;VOGUE;VO;Žene;Mačkasti;Puni okvir;Injektirani;51;43;Metal;140;;Ružičasta;17;VOGUE;133
+VO4253;vo4253;;VO4253-352,VO4253-5120;Default;Eyewear;Crna;;S;VO4253;53;352;84;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Metal;53;46;Metal;135;;Crna;17;VOGUE;133
+VO4253-S-Crna-352;vo4253-s-352;352;VO4253-352;Default;Eyewear;Crna;crna;S;VO4253;53;352;84;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Metal;53;46;Metal;135;;Crna;17;VOGUE;133
+VO4253-S-bijela-5120;vo4253-s-5120;5120;VO4253-5120;Default;Eyewear;bijela;bijela;S;VO4253;51;5120;84;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Metal;51;44;Metal;135;;bijela;17;VOGUE;128
+VO4238D;vo4238d;;VO4238D-5078,VO4238D-848;Default;Eyewear;Smeđa, Zlatna;;M;VO4238D;56;5078,848;80;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Metal;56;52;Metal;145;;Smeđa, Zlatna;16;VOGUE;138
+VO4238D-M-Smeda-5078;vo4238d-m-5078;5078;VO4238D-5078;Default;Eyewear;Smeđa;smeđa;M;VO4238D;56;5078,848;80;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Metal;56;52;Metal;145;;Smeđa, Zlatna;16;VOGUE;138
+VO4238D-M-Zlatna-848;vo4238d-m-848;848;VO4238D-848;Default;Eyewear;Zlatna;zlatna;M;VO4238D;56;5078,848;80;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Metal;56;52;Metal;145;;Smeđa, Zlatna;16;VOGUE;138
+VO4301D;vo4301d;;VO4301D-352,VO4301D-848,VO4301D-5089;Default;Eyewear;Crna, Zlatna, CRVENA;;M;VO4301D;55;352,848,5089;84;VOGUE;VO;Žene;Nepravilan;Puni okvir;Metal;55;49;Metal;145;;Crna, Zlatna, CRVENA;18;VOGUE;138
+VO4301D-M-Crna-352;vo4301d-m-352;352;VO4301D-352;Default;Eyewear;Crna;crna;M;VO4301D;55;352,848,5089;84;VOGUE;VO;Žene;Nepravilan;Puni okvir;Metal;55;49;Metal;145;;Crna, Zlatna, CRVENA;18;VOGUE;138
+VO4301D-M-Zlatna-848;vo4301d-m-848;848;VO4301D-848;Default;Eyewear;Zlatna;zlatna;M;VO4301D;55;352,848,5089;84;VOGUE;VO;Žene;Nepravilan;Puni okvir;Metal;55;49;Metal;145;;Crna, Zlatna, CRVENA;18;VOGUE;138
+VO4301D-M-CRVENA-5089;vo4301d-m-5089;5089;VO4301D-5089;Default;Eyewear;CRVENA;crvena;M;VO4301D;55;352,848,5089;84;VOGUE;VO;Žene;Nepravilan;Puni okvir;Metal;55;49;Metal;145;;Crna, Zlatna, CRVENA;18;VOGUE;138
+VO4283;vo4283;;VO4283-5152,VO4283-323;Default;Eyewear;Ružičasta;;S;VO4283;51;5152;101;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Metal;51;45;Metal;135;;Ružičasta;17;VOGUE;130
+VO4283-S-Ruzicasta-5152;vo4283-s-5152;5152;VO4283-5152;Default;Eyewear;Ružičasta;roza;S;VO4283;51;5152;101;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Metal;51;45;Metal;135;;Ružičasta;17;VOGUE;130
+VO4283-M-SREBRNA-323;vo4283-m-323;323;VO4283-323;Default;Eyewear;SREBRNA;srebrna;M;VO4283;53;323;101;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;53;47;Metal;140;;SREBRNA;17;VOGUE;135
+VO4311B;vo4311b;;VO4311B-5152,VO4311B-548;Default;Eyewear;Ružičasta;;S;VO4311B;53;5152;119;VOGUE;VO;Žene;Zaobljeni četvrtasti;Puni okvir;Metal;53;46;Metal;140;;Ružičasta;18;VOGUE;135
+VO4311B-S-Ruzicasta-5152;vo4311b-s-5152;5152;VO4311B-5152;Default;Eyewear;Ružičasta;roza;S;VO4311B;53;5152;119;VOGUE;VO;Žene;Zaobljeni četvrtasti;Puni okvir;Metal;53;46;Metal;140;;Ružičasta;18;VOGUE;135
+VO4311B-M-SREBRNA-548;vo4311b-m-548;548;VO4311B-548;Default;Eyewear;SREBRNA;srebrna;M;VO4311B;51;548;119;VOGUE;VO;Žene;Ovalni;Puni okvir;Metal;51;45;Metal;140;;SREBRNA;18;VOGUE;135
+VO4273;vo4273;;VO4273-5152,VO4273-323;Default;Eyewear;Ružičasta;;S;VO4273;53;5152;84;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;53;42;Metal;135;;Ružičasta;17;VOGUE;133
+VO4273-S-Ruzicasta-5152;vo4273-s-5152;5152;VO4273-5152;Default;Eyewear;Ružičasta;roza;S;VO4273;53;5152;84;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;53;42;Metal;135;;Ružičasta;17;VOGUE;133
+VO4273-S-CRNA-SREBRNA-323;vo4273-s-323;323;VO4273-323;Default;Eyewear;CRNA/SREBRNA;crna;S;VO4273;53;323;84;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;53;42;Metal;135;;CRNA/SREBRNA;17;VOGUE;133
+VO4285;vo4285;;VO4285-5152,VO4285-28,VO4285-352,VO4285-323;Default;Eyewear;Ružičasta, Zlatna;;M;VO4285;55;5152,28;92;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;55;43;Metal;135;;Ružičasta, Zlatna;17;VOGUE;138
+VO4285-M-Ruzicasta-5152;vo4285-m-5152;5152;VO4285-5152;Default;Eyewear;Ružičasta;roza;M;VO4285;55;5152,28;92;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;55;43;Metal;135;;Ružičasta, Zlatna;17;VOGUE;138
+VO4285-M-Zlatna-28;vo4285-m-28;28;VO4285-28;Default;Eyewear;Zlatna;zlatna;M;VO4285;55;5152,28;92;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;55;43;Metal;135;;Ružičasta, Zlatna;17;VOGUE;138
+VO4285-M-Crna-352;vo4285-m-352;352;VO4285-352;Default;Eyewear;Crna;crna;M;VO4285;55;352,323;92;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;55;43;Metal;135;;Crna, SREBRNA;17;VOGUE;137
+VO4285-M-SREBRNA-323;vo4285-m-323;323;VO4285-323;Default;Eyewear;SREBRNA;srebrna;M;VO4285;55;352,323;92;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;55;43;Metal;135;;Crna, SREBRNA;17;VOGUE;137
+VO4307;vo4307;;VO4307-5152,VO4307-5149,VO4307-280,VO4307-5074;Default;Eyewear;Ružičasta, SMEĐA;;S;VO4307;52;5152,5149;92;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;52;42;Metal;140;;Ružičasta, SMEĐA;17;VOGUE;130
+VO4307-S-Ruzicasta-5152;vo4307-s-5152;5152;VO4307-5152;Default;Eyewear;Ružičasta;roza;S;VO4307;52;5152,5149;92;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;52;42;Metal;140;;Ružičasta, SMEĐA;17;VOGUE;130
+VO4307-S-SMEDA-5149;vo4307-s-5149;5149;VO4307-5149;Default;Eyewear;SMEĐA;smeđa;S;VO4307;52;5152,5149;92;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;52;42;Metal;140;;Ružičasta, SMEĐA;17;VOGUE;130
+VO4307-M-Ruzicasta-5152;vo4307-m-5152;5152;VO4307-5152;Default;Eyewear;Ružičasta;roza;M;VO4307;54;5152,280,5074;92;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;54;44;Metal;140;;Ružičasta, Zlatna, smeđa;17;VOGUE;135
+VO4307-M-Zlatna-280;vo4307-m-280;280;VO4307-280;Default;Eyewear;Zlatna;zlatna;M;VO4307;54;5152,280,5074;92;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;54;44;Metal;140;;Ružičasta, Zlatna, smeđa;17;VOGUE;135
+VO4307-M-smeda-5074;vo4307-m-5074;5074;VO4307-5074;Default;Eyewear;smeđa;smeđa;M;VO4307;54;5152,280,5074;92;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;54;44;Metal;140;;Ružičasta, Zlatna, smeđa;17;VOGUE;135
+VO4163;vo4163;;VO4163-848,VO4163-28;Default;Eyewear;Zlatna, crna;;S;VO4163;53;848,28;92;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;53;40;Metal;140;;Zlatna, crna;18;VOGUE;133
+VO4163-S-Zlatna-848;vo4163-s-848;848;VO4163-848;Default;Eyewear;Zlatna;zlatna;S;VO4163;53;848,28;92;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;53;40;Metal;140;;Zlatna, crna;18;VOGUE;133
+VO4163-S-crna-28;vo4163-s-28;28;VO4163-28;Default;Eyewear;crna;crna;S;VO4163;53;848,28;92;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;53;40;Metal;140;;Zlatna, crna;18;VOGUE;133
+VO4306;vo4306;;VO4306-280,VO4306-5152,VO4306-5074;Default;Eyewear;Zlatna, Ružičasta;;M;VO4306;53;280,5152;92;VOGUE;VO;Žene;Okrugli;Puni okvir;Metal;53;47;Metal;140;;Zlatna, Ružičasta;18;VOGUE;137
+VO4306-M-Zlatna-280;vo4306-m-280;280;VO4306-280;Default;Eyewear;Zlatna;zlatna;M;VO4306;53;280,5152;92;VOGUE;VO;Žene;Okrugli;Puni okvir;Metal;53;47;Metal;140;;Zlatna, Ružičasta;18;VOGUE;137
+VO4306-M-Ruzicasta-5152;vo4306-m-5152;5152;VO4306-5152;Default;Eyewear;Ružičasta;roza;M;VO4306;53;280,5152;92;VOGUE;VO;Žene;Okrugli;Puni okvir;Metal;53;47;Metal;140;;Zlatna, Ružičasta;18;VOGUE;137
+VO4306-S-Smeda-5074;vo4306-s-5074;5074;VO4306-5074;Default;Eyewear;Smeđa;smeđa;S;VO4306;51;5074;92;VOGUE;VO;Žene;Okrugli;Puni okvir;Metal;51;45;Metal;140;;Smeđa;18;VOGUE;132
+VO4306-M-Smeda-5074;vo4306-m-5074;5074;VO4306-5074;Default;Eyewear;Smeđa;smeđa;M;VO4306;53;5074;92;VOGUE;VO;Žene;Okrugli;Puni okvir;Metal;53;47;Propionat;140;;Smeđa;18;VOGUE;137
+VO5236;vo5236;;VO5236-2760;Default;Eyewear;Plava;;M;VO5236;51;2760;92;VOGUE;VO;Muškarci;Ovalni;Puni okvir;Acetat;51;45;Acetat;145;;Plava;19;VOGUE;138
+VO5236-M-Plava-2760;vo5236-m-2760;2760;VO5236-2760;Default;Eyewear;Plava;plava;M;VO5236;51;2760;92;VOGUE;VO;Muškarci;Ovalni;Puni okvir;Acetat;51;45;Acetat;145;;Plava;19;VOGUE;138
+VO5434;vo5434;;VO5434-2319;Default;Eyewear;Plava;;M;VO5434;49;2319;92;VOGUE;VO;Muškarci;Ovalni;Puni okvir;Acetat;49;47;Metal;145;;Plava;19;VOGUE;138
+VO5434-M-Plava-2319;vo5434-m-2319;2319;VO5434-2319;Default;Eyewear;Plava;plava;M;VO5434;49;2319;92;VOGUE;VO;Muškarci;Ovalni;Puni okvir;Acetat;49;47;Metal;145;;Plava;19;VOGUE;138
+VO5367;vo5367;;VO5367-W44;Default;Eyewear;Crna;;M;VO5367;50;W44;92;VOGUE;VO;Muškarci;Ovalni;Puni okvir;Acetat;50;47;Acetat;145;;Crna;20;VOGUE;138
+VO5367-M-Crna-W44;vo5367-m-w44;W44;VO5367-W44;Default;Eyewear;Crna;crna;M;VO5367;50;W44;92;VOGUE;VO;Muškarci;Ovalni;Puni okvir;Acetat;50;47;Acetat;145;;Crna;20;VOGUE;138
+VO5472;vo5472;;VO5472-W44;Default;Eyewear;Crna;;M;VO5472;49;W44;101;VOGUE;VO;Muškarci;Nepravilan;Puni okvir;Acetat;49;45;Metal;145;;Crna;21;VOGUE;138
+VO5472-M-Crna-W44;vo5472-m-w44;W44;VO5472-W44;Default;Eyewear;Crna;crna;M;VO5472;49;W44;101;VOGUE;VO;Muškarci;Nepravilan;Puni okvir;Acetat;49;45;Metal;145;;Crna;21;VOGUE;138
+VO5522;vo5522;;VO5522-3100,VO5522-3101;Default;Eyewear;CRVENO LJUBIČASTI;;S;VO5522;52;3100;101;VOGUE;VO;Žene;Nepravilan;Puni okvir;Injektirani;52;46;Metal;135;;CRVENO LJUBIČASTI;16;VOGUE;132
+VO5522-S-CRVENO-LJUBICASTI-3100;vo5522-s-3100;3100;VO5522-3100;Default;Eyewear;CRVENO LJUBIČASTI;crvena;S;VO5522;52;3100;101;VOGUE;VO;Žene;Nepravilan;Puni okvir;Injektirani;52;46;Metal;135;;CRVENO LJUBIČASTI;16;VOGUE;132
+VO5522-M-Smeda-3101;vo5522-m-3101;3101;VO5522-3101;Default;Eyewear;Smeđa;smeđa;M;VO5522;54;3101;101;VOGUE;VO;Žene;Nepravilan;Puni okvir;Injektirani;54;48;Metal;140;;Smeđa;16;VOGUE;138
+VO5430D;vo5430d;;VO5430D-W656,VO5430D-W44,VO5430D-2798;Default;Eyewear;SMEĐA, CRNA, ROZA;;M;VO5430D;53;W656,W44,2798;80;VOGUE;VO;Žene;Nepravilan;Puni okvir;Acetat;53;50;Metal;140;;SMEĐA, CRNA, ROZA;18;VOGUE;140
+VO5430D-M-SMEDA-W656;vo5430d-m-w656;W656;VO5430D-W656;Default;Eyewear;SMEĐA;smeđa;M;VO5430D;53;W656,W44,2798;80;VOGUE;VO;Žene;Nepravilan;Puni okvir;Acetat;53;50;Metal;140;;SMEĐA, CRNA, ROZA;18;VOGUE;140
+VO5430D-M-CRNA-W44;vo5430d-m-w44;W44;VO5430D-W44;Default;Eyewear;CRNA;crna;M;VO5430D;53;W656,W44,2798;80;VOGUE;VO;Žene;Nepravilan;Puni okvir;Acetat;53;50;Metal;140;;SMEĐA, CRNA, ROZA;18;VOGUE;140
+VO5430D-M-ROZA-2798;vo5430d-m-2798;2798;VO5430D-2798;Default;Eyewear;ROZA;roza;M;VO5430D;53;W656,W44,2798;80;VOGUE;VO;Žene;Nepravilan;Puni okvir;Acetat;53;50;Metal;140;;SMEĐA, CRNA, ROZA;18;VOGUE;140
+VO5425B;vo5425b;;VO5425B-W44,VO5425B-2386;Default;Eyewear;CRNA, SMEĐA;;M;VO5425B;54;W44,2386;110;VOGUE;VO;Žene;Ovalni;Puni okvir;Injektirani;54;42;Injektirani;140;;CRNA, SMEĐA;17;VOGUE;142
+VO5425B-M-CRNA-W44;vo5425b-m-w44;W44;VO5425B-W44;Default;Eyewear;CRNA;crna;M;VO5425B;54;W44,2386;110;VOGUE;VO;Žene;Ovalni;Puni okvir;Injektirani;54;42;Injektirani;140;;CRNA, SMEĐA;17;VOGUE;142
+VO5425B-M-SMEDA-2386;vo5425b-m-2386;2386;VO5425B-2386;Default;Eyewear;SMEĐA;smeđa;M;VO5425B;54;W44,2386;110;VOGUE;VO;Žene;Ovalni;Puni okvir;Injektirani;54;42;Injektirani;140;;CRNA, SMEĐA;17;VOGUE;142
+VO5570;vo5570;;VO5570-WT45,VO5570-W44;Default;Eyewear;Prozirna, CRNA;;M;VO5570;51;WT45,W44;101;VOGUE;VO;Muškarci;Kvadratni;Puni okvir;Acetat;51;46;Acetat;145;;Prozirna, CRNA;20;VOGUE;138
+VO5570-M-Prozirna-WT45;vo5570-m-wt45;WT45;VO5570-WT45;Default;Eyewear;Prozirna;prozirna;M;VO5570;51;WT45,W44;101;VOGUE;VO;Muškarci;Kvadratni;Puni okvir;Acetat;51;46;Acetat;145;;Prozirna, CRNA;20;VOGUE;138
+VO5570-M-CRNA-W44;vo5570-m-w44;W44;VO5570-W44;Default;Eyewear;CRNA;crna;M;VO5570;51;WT45,W44;101;VOGUE;VO;Muškarci;Kvadratni;Puni okvir;Acetat;51;46;Acetat;145;;Prozirna, CRNA;20;VOGUE;138
+VO5532;vo5532;;VO5532-3109;Default;Eyewear;Crna;;M;VO5532;54;3109;92;VOGUE;VO;Muškarci;Kvadratni;Puni okvir;Najlonska vlakna;54;47;Metal;145;;Crna;19;VOGUE;140
+VO5532-M-Crna-3109;vo5532-m-3109;3109;VO5532-3109;Default;Eyewear;Crna;crna;M;VO5532;54;3109;92;VOGUE;VO;Muškarci;Kvadratni;Puni okvir;Najlonska vlakna;54;47;Metal;145;;Crna;19;VOGUE;140
+VO5532-S-Crna-3109;vo5532-s-3109;3109;VO5532-3109;Default;Eyewear;Crna;crna;S;VO5532;52;3109;92;VOGUE;VO;Muškarci;Kvadratni;Puni okvir;Najlonska vlakna;52;45;Metal;145;;Crna;19;VOGUE;135
+VO5518;vo5518;;VO5518-3050,VO5518-W44;Default;Eyewear;ZELENA;;S;VO5518;51;3050;84;VOGUE;VO;Žene;Zaobljeni četvrtasti;Puni okvir;Najlonska vlakna;51;44;Najlonska vlakna;140;;ZELENA;16;VOGUE;132
+VO5518-S-ZELENA-3050;vo5518-s-3050;3050;VO5518-3050;Default;Eyewear;ZELENA;zelena;S;VO5518;51;3050;84;VOGUE;VO;Žene;Zaobljeni četvrtasti;Puni okvir;Najlonska vlakna;51;44;Najlonska vlakna;140;;ZELENA;16;VOGUE;132
+VO5518-M-Crna-W44;vo5518-m-w44;W44;VO5518-W44;Default;Eyewear;Crna;crna;M;VO5518;53;W44;84;VOGUE;VO;Žene;Zaobljeni četvrtasti;Puni okvir;Najlonska vlakna;53;46;Najlonska vlakna;140;;Crna;16;VOGUE;135
+VO5572;vo5572;;VO5572-W44;Default;Eyewear;Crna;;L;VO5572;54;W44;105;VOGUE;VO;Muškarci;Zaobljeni četvrtasti;Puni okvir;Acetat;54;48;Acetat;145;;Crna;20;VOGUE;145
+VO5572-L-Crna-W44;vo5572-l-w44;W44;VO5572-W44;Default;Eyewear;Crna;crna;L;VO5572;54;W44;105;VOGUE;VO;Muškarci;Zaobljeni četvrtasti;Puni okvir;Acetat;54;48;Acetat;145;;Crna;20;VOGUE;145
+VO4249;vo4249;;VO4249-352,VO4249-5170;Default;Eyewear;Crna;;M;VO4249;53;352;101;VOGUE;VO;Žene;Zaobljeni četvrtasti;Puni okvir;Metal;53;45;Metal;140;;Crna;18;VOGUE;135
+VO4249-M-Crna-352;vo4249-m-352;352;VO4249-352;Default;Eyewear;Crna;crna;M;VO4249;53;352;101;VOGUE;VO;Žene;Zaobljeni četvrtasti;Puni okvir;Metal;53;45;Metal;140;;Crna;18;VOGUE;135
+VO4249-S-Crna-352;vo4249-s-352;352;VO4249-352;Default;Eyewear;Crna;crna;S;VO4249;51;352;101;VOGUE;VO;Žene;Zaobljeni četvrtasti;Puni okvir;Metal;51;43;Propionat;135;;Crna;18;VOGUE;132
+VO4249-M-CRVENA-5170;vo4249-m-5170;5170;VO4249-5170;Default;Eyewear;CRVENA;crvena;M;VO4249;53;5170;101;VOGUE;VO;Žene;Zaobljeni četvrtasti;Puni okvir;Metal;53;46;Metal;140;;CRVENA;18;VOGUE;138
+VO4292;vo4292;;VO4292-352S;Default;Eyewear;Crna;;M;VO4292;54;352S;101;VOGUE;VO;Žene;Četvrtasti;;Metal;54;38;Metal;145;;Crna;17;VOGUE;136
+VO4292-M-Crna-352S;vo4292-m-352s;352S;VO4292-352S;Default;Eyewear;Crna;crna;M;VO4292;54;352S;101;VOGUE;VO;Žene;Četvrtasti;;Metal;54;38;Metal;145;;Crna;17;VOGUE;136
+VO4292-S-Crna-352S;vo4292-s-352s;352S;VO4292-352S;Default;Eyewear;Crna;crna;S;VO4292;56;352S;101;VOGUE;VO;Žene;Četvrtasti;;Metal;52;39;Metal;145;;Crna;17;VOGUE;140
+VO4183;vo4183;;VO4183-5135,VO4183-323,VO4183-352,VO4183-5136;Default;Eyewear;SMEĐA, SREBRNA, CRNA, SIVA;;S;VO4183;51;5135,323,352,5136;101;VOGUE;VO;Muškarci;Okrugli;Puni okvir;Metal;51;47;Metal;145;;SMEĐA, SREBRNA, CRNA, SIVA;21;VOGUE;130
+VO4183-S-SMEDA-5135;vo4183-s-5135;5135;VO4183-5135;Default;Eyewear;SMEĐA;smeđa;S;VO4183;51;5135,323,352,5136;101;VOGUE;VO;Muškarci;Okrugli;Puni okvir;Metal;51;47;Metal;145;;SMEĐA, SREBRNA, CRNA, SIVA;21;VOGUE;130
+VO4183-S-SREBRNA-323;vo4183-s-323;323;VO4183-323;Default;Eyewear;SREBRNA;srebrna;S;VO4183;51;5135,323,352,5136;101;VOGUE;VO;Muškarci;Okrugli;Puni okvir;Metal;51;47;Metal;145;;SMEĐA, SREBRNA, CRNA, SIVA;21;VOGUE;130
+VO4183-S-CRNA-352;vo4183-s-352;352;VO4183-352;Default;Eyewear;CRNA;crna;S;VO4183;51;5135,323,352,5136;101;VOGUE;VO;Muškarci;Okrugli;Puni okvir;Metal;51;47;Metal;145;;SMEĐA, SREBRNA, CRNA, SIVA;21;VOGUE;130
+VO4183-S-SIVA-5136;vo4183-s-5136;5136;VO4183-5136;Default;Eyewear;SIVA;siva;S;VO4183;51;5135,323,352,5136;101;VOGUE;VO;Muškarci;Okrugli;Puni okvir;Metal;51;47;Metal;145;;SMEĐA, SREBRNA, CRNA, SIVA;21;VOGUE;130
+VO4280;vo4280;;VO4280-5149,VO4280-323;Default;Eyewear;SMEĐA, CRNA;;S;VO4280;52;5149,323;84;VOGUE;VO;Žene;Okrugli;Puni okvir;Metal;52;49;Metal;140;;SMEĐA, CRNA;18;VOGUE;130
+VO4280-S-SMEDA-5149;vo4280-s-5149;5149;VO4280-5149;Default;Eyewear;SMEĐA;smeđa;S;VO4280;52;5149,323;84;VOGUE;VO;Žene;Okrugli;Puni okvir;Metal;52;49;Metal;140;;SMEĐA, CRNA;18;VOGUE;130
+VO4280-S-CRNA-323;vo4280-s-323;323;VO4280-323;Default;Eyewear;CRNA;crna;S;VO4280;52;5149,323;84;VOGUE;VO;Žene;Okrugli;Puni okvir;Metal;52;49;Metal;140;;SMEĐA, CRNA;18;VOGUE;130
+VO4280-XS-Crna-323;vo4280-xs-323;323;VO4280-323;Default;Eyewear;Crna;crna;XS;VO4280;50;323;84;VOGUE;VO;Žene;Okrugli;Puni okvir;Metal;50;46;Metal;140;;Crna;18;VOGUE;125
+VO4291;vo4291;;VO4291-5135,VO4291-352;Default;Eyewear;Smeđa;;M;VO4291;52;5135;101;VOGUE;VO;Muškarci;Phantos;Puni okvir;Metal;52;48;Najlonska vlakna;145;;Smeđa;20;VOGUE;130
+VO4291-M-Smeda-5135;vo4291-m-5135;5135;VO4291-5135;Default;Eyewear;Smeđa;smeđa;M;VO4291;52;5135;101;VOGUE;VO;Muškarci;Phantos;Puni okvir;Metal;52;48;Najlonska vlakna;145;;Smeđa;20;VOGUE;130
+VO4291-S-Crna-352;vo4291-s-352;352;VO4291-352;Default;Eyewear;Crna;crna;S;VO4291;50;352;101;VOGUE;VO;Muškarci;Phantos;Puni okvir;Metal;50;46;Najlonska vlakna;145;;Crna;20;VOGUE;135
+VO4263;vo4263;;VO4263-352;Default;Eyewear;Crna;;S;VO4263;50;352;101;VOGUE;VO;Muškarci;Okrugli;;Metal;50;47;Metal;145;;Crna;20;VOGUE;130
+VO4263-S-Crna-352;vo4263-s-352;352;VO4263-352;Default;Eyewear;Crna;crna;S;VO4263;50;352;101;VOGUE;VO;Muškarci;Okrugli;;Metal;50;47;Metal;145;;Crna;20;VOGUE;130
+VO4250;vo4250;;VO4250-352;Default;Eyewear;Crna/ZLATNA;;M;VO4250;53;352;101;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;53;44;Metal;140;;Crna/ZLATNA;18;VOGUE;138
+VO4250-M-Crna-ZLATNA-352;vo4250-m-352;352;VO4250-352;Default;Eyewear;Crna/ZLATNA;crna;M;VO4250;53;352;101;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;53;44;Metal;140;;Crna/ZLATNA;18;VOGUE;138
+VO4088;vo4088;;VO4088-352,VO4088-997;Default;Eyewear;Crna/ZLATNA;;M;VO4088;52;352;110;VOGUE;VO;Žene;Ovalni;Puni okvir;Metal;52;45;Metal;140;;Crna/ZLATNA;18;VOGUE;135
+VO4088-M-Crna-ZLATNA-352;vo4088-m-352;352;VO4088-352;Default;Eyewear;Crna/ZLATNA;crna;M;VO4088;52;352;110;VOGUE;VO;Žene;Ovalni;Puni okvir;Metal;52;45;Metal;140;;Crna/ZLATNA;18;VOGUE;135
+VO4088-M-SMEDA-ZLATNA-997;vo4088-m-997;997;VO4088-997;Default;Eyewear;SMEĐA/ZLATNA;smeđa;M;VO4088;52;997;110;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;52;45;Metal;140;;SMEĐA/ZLATNA;18;VOGUE;135
+VO4201D;vo4201d;;VO4201D-5078,VO4201D-323;Default;Eyewear;Havana/ZLATNA, SREBRNA;;M;VO4201D;55;5078,323;80;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;55;49;Metal;140;;Havana/ZLATNA, SREBRNA;18;VOGUE;140
+VO4201D-M-Havana-ZLATNA-5078;vo4201d-m-5078;5078;VO4201D-5078;Default;Eyewear;Havana/ZLATNA;smeđa;M;VO4201D;55;5078,323;80;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;55;49;Metal;140;;Havana/ZLATNA, SREBRNA;18;VOGUE;140
+VO4201D-M-SREBRNA-323;vo4201d-m-323;323;VO4201D-323;Default;Eyewear;SREBRNA;srebrna;M;VO4201D;55;5078,323;80;VOGUE;VO;Žene;Leptirasti;Puni okvir;Metal;55;49;Metal;140;;Havana/ZLATNA, SREBRNA;18;VOGUE;140
+VO4178;vo4178;;VO4178-323;Default;Eyewear;CRNA/SREBRNA;;S;VO4178;52;323;101;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Metal;52;45;Metal;135;;CRNA/SREBRNA;18;VOGUE;130
+VO4178-S-CRNA-SREBRNA-323;vo4178-s-323;323;VO4178-323;Default;Eyewear;CRNA/SREBRNA;crna;S;VO4178;52;323;101;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Metal;52;45;Metal;135;;CRNA/SREBRNA;18;VOGUE;130
+VO4178-M-CRNA-SREBRNA-323;vo4178-m-323;323;VO4178-323;Default;Eyewear;CRNA/SREBRNA;crna;M;VO4178;50;323;101;VOGUE;VO;Žene;Četvrtasti;Puni okvir;Metal;50;47;Metal;135;;CRNA/SREBRNA;18;VOGUE;135
+VO4108;vo4108;;VO4108-280,VO4108-5078;Default;Eyewear;CRNA/ZLATNA, SMEĐA;;M;VO4108;51;280,5078;110;VOGUE;VO;Žene;Ovalni;Puni okvir;Metal;51;47;Metal;135;;CRNA/ZLATNA, SMEĐA;18;VOGUE;135
+VO4108-M-CRNA-ZLATNA-280;vo4108-m-280;280;VO4108-280;Default;Eyewear;CRNA/ZLATNA;crna;M;VO4108;51;280,5078;110;VOGUE;VO;Žene;Ovalni;Puni okvir;Metal;51;47;Metal;135;;CRNA/ZLATNA, SMEĐA;18;VOGUE;135
+VO4108-M-SMEDA-5078;vo4108-m-5078;5078;VO4108-5078;Default;Eyewear;SMEĐA;smeđa;M;VO4108;51;280,5078;110;VOGUE;VO;Žene;Ovalni;Puni okvir;Metal;51;47;Metal;135;;CRNA/ZLATNA, SMEĐA;18;VOGUE;135
+VO4305;vo4305;;VO4305-5078,VO4305-5170;Default;Eyewear;Smeđa;;S;VO4305;51;5078;101;VOGUE;VO;Žene;Ovalni;Puni okvir;Metal;51;47;Metal;140;;Smeđa;17;VOGUE;135
+VO4305-S-Smeda-5078;vo4305-s-5078;5078;VO4305-5078;Default;Eyewear;Smeđa;smeđa;S;VO4305;51;5078;101;VOGUE;VO;Žene;Ovalni;Puni okvir;Metal;51;47;Metal;140;;Smeđa;17;VOGUE;135
+VO4305-M-Smeda-5170;vo4305-m-5170;5170;VO4305-5170;Default;Eyewear;Smeđa;smeđa;M;VO4305;53;5170;101;VOGUE;VO;Žene;Ovalni;Puni okvir;Metal;53;49;Metal;140;;Smeđa;17;VOGUE;138
+VO4304;vo4304;;VO4304-5078,VO4304-5170;Default;Eyewear;Smeđa;;S;VO4304;51;5078;101;VOGUE;VO;Žene;Mačkasti;;Metal;51;43;Metal;140;;Smeđa;18;VOGUE;133
+VO4304-S-Smeda-5078;vo4304-s-5078;5078;VO4304-5078;Default;Eyewear;Smeđa;smeđa;S;VO4304;51;5078;101;VOGUE;VO;Žene;Mačkasti;;Metal;51;43;Metal;140;;Smeđa;18;VOGUE;133
+VO4304-M-CRVENA-5170;vo4304-m-5170;5170;VO4304-5170;Default;Eyewear;CRVENA;crvena;M;VO4304;53;5170;101;VOGUE;VO;Žene;Mačkasti;;Metal;53;45;Metal;140;;CRVENA;18;VOGUE;135
+VO3987B;vo3987b;;VO3987B-811;Default;Eyewear;Smeđa;;S;VO3987B;52;811;119;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;52;38;Metal;135;;Smeđa;16;VOGUE;130
+VO3987B-S-Smeda-811;vo3987b-s-811;811;VO3987B-811;Default;Eyewear;Smeđa;smeđa;S;VO3987B;52;811;119;VOGUE;VO;Žene;Mačkasti;Puni okvir;Metal;52;38;Metal;135;;Smeđa;16;VOGUE;130
